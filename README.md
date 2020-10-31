@@ -1,4 +1,4 @@
-# Prototipo-API
+# API-Rest
 
 ## :information_source: O que é:
 Este projeto traz um exemplo do funcionamento de uma API que provém informações sobre um grupo de pesquisadores da Universidade Federal de Pelotas, que desenvolvi durante o andamento do projeto como bolsista de desenvolvimento tecnológico. Ela permite realizar qualquer operação do padrão CRUD - create, read, update, delete - sobre as informaçôes presentes no banco de dados do grupo, o qual está hospedado em um serviço de nuvem para bancos de dados - [Clear DB](https://w2.cleardb.net/why-cleardb/).
